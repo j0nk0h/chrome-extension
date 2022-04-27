@@ -8,3 +8,11 @@ console.log(newImgNode);
 contentsParent.prepend(newImgNode);
 const dreamText = $("<p>Get back to achieving your coding dreams</p>")
 newImgNode.prepend(dreamText);
+const dreamText = $("<p>Get back to achieving your coding dreams</p>")
+newImgNode.prepend(dreamText);
+const dreamText = $("<p>Get back to achieving your coding dreams</p>")
+newImgNode.prepend(dreamText);
+const dreamText = $("<p>Get back to achieving your coding dreams</p>")
+newImgNode.prepend(dreamText);
+const dreamText = $("<p>Get back to achieving your coding dreams</p>")
+newImgNode.prepend(dreamText);
